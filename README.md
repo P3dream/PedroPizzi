@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/PedroPizzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPizzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPizzi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3dream&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3dream&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <br>
